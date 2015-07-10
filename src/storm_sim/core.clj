@@ -1,4 +1,5 @@
 (ns storm-sim.core
+  "A simulator for Legacy storm situations. Handles I/O and launches the simulation."
   (:gen-class))
 
 (defn -main
